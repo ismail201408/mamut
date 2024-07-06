@@ -1,0 +1,62 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+img{
+    width: 100vw;
+    height: 100vh;
+}
+i{
+    font-size: 30px;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    color: white;
+}
+p{
+    font-size: 20px;
+    position: absolute;
+    top: 24px;
+    left: 60px;
+    color: white;
+}
+h1{
+color: white;
+position: absolute;
+top: 20px;
+left: 650px;
+color: white;
+font-size: 40px;
+}
+.a{
+    border: none;
+    outline: none;
+    border-bottom: solid ;
+    position: absolute;
+    top: 30px;
+    left: 1150px;
+    background-color: transparent;
+    color: white;
+}
+.z{
+    position: absolute;
+    top: 5px;
+    left: 1350px; 
+}
+.b{
+    position: absolute;
+    top: 5px;
+    left: 1400px; 
+}
+.c{
+    position: absolute;
+    top: 255px;
+    font-size: 70px;
+}
+pre{
+    position: absolute;
+    top: 355px;
+    font-size: 25px;
+    left: 50px;
+    color: white;
+}
